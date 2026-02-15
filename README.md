@@ -1,4 +1,4 @@
-# Task-2-Analyze-a-Phishing-Email-Sample. Phishing-Email-Analysis TASK 2 – Phishing Email Analysis
+# Task-2-Analyze-a-Phishing-Email-Sample. Phishing-Email-Analysis 
 
 Objective
 
@@ -16,8 +16,8 @@ Summary: The email impersonates Apple / iCloud services and claims that there is
 
 Tools Used
 
-Email Header / Sender Domain Analysis
-VirusTotal(Domain and URL Reputation Analysis)
+1.Email Header / Sender Domain Analysis
+2.VirusTotal(Domain and URL Reputation Analysis)
 Tool 1: Email Header / Sender Domain Analysis
 
 Purpose
